@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.0.0
+MinimumVisualStudioVersion = 17.8.0.0
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project.Mayhem.AppHost", "Project.Mayhem.AppHost\Project.Mayhem.AppHost.csproj", "{72C03605-9A22-4FCD-A057-21EAAE649E23}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project.Mayhem.ServiceDefaults", "Project.Mayhem.ServiceDefaults\Project.Mayhem.ServiceDefaults.csproj", "{F2A86331-6ECC-4827-B7E9-B4BE6C5E6D96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72C03605-9A22-4FCD-A057-21EAAE649E23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72C03605-9A22-4FCD-A057-21EAAE649E23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72C03605-9A22-4FCD-A057-21EAAE649E23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72C03605-9A22-4FCD-A057-21EAAE649E23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2A86331-6ECC-4827-B7E9-B4BE6C5E6D96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2A86331-6ECC-4827-B7E9-B4BE6C5E6D96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2A86331-6ECC-4827-B7E9-B4BE6C5E6D96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2A86331-6ECC-4827-B7E9-B4BE6C5E6D96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C958547-DE1B-4A48-A9D0-B3E0012DC1F7}
+	EndGlobalSection
+EndGlobal
